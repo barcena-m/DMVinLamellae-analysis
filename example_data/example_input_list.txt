@@ -1,0 +1,9 @@
+# nm_per_pixel and membrane_offset_nm
+# membrane_offset_nm = total thickness / 2, to account for the distance from the center of the pore to the outer side
+
+1.31 6.5
+
+# vesicle file and lamella file
+
+example_vesicles.txt example_planes.txt
+
